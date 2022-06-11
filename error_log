@@ -1,0 +1,1 @@
+[06-Jun-2022 11:15:51 UTC] PHP Fatal error:  Cannot make static method Illuminate\Database\Eloquent\Model::all() non static in class App\Models\Crud_model in /home2/gbytesof/public_html/webvire.com/laravell/app/Models/Crud_model.php on line 22
